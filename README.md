@@ -1,7 +1,7 @@
 <h1 align="center">Oi 👋, Eu sou Ricardo Lins</h1>
 <h3 align="center">Eu sou apaixonado pela programação full stack e jogos digitais</h3>
 
-- 🔭 Atualmente estou trabalhando com estudos e cursos de programações front end e back end ****
+- 🔭 Atualmente estou trabalhando com estudos e cursos de programações front end e back end 
 
 - 🌱 Atualmente estou aprendendo **Sql, phyton, JavaScript, php, etc.**
 
