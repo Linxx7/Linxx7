@@ -5,7 +5,7 @@
 
 - 🌱 Atualmente estou aprendendo **Sql, phyton, JavaScript, php, etc.**
 
-- 💬 Me pergunte sobre **C#, JavaScript, excel, Html/Css, Flutter**
+- 💬 Me pergunte sobre **C#, JavaScript, Html/Css, Flutter**
 
 - 📫 Você me acha **ricardolins97@gmail.com**
 
