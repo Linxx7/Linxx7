@@ -1,15 +1,15 @@
-<h1 align="center">Oi 👋, Eu sou Ricardo Lins</h1>
-<h3 align="center">Eu sou apaixonado pela programação full stack e jogos digitais</h3>
+<h1 align="center">Hi 👋, I'm Ricardo Lins</h1>
+<h3 align="center">I'm passionate about full stack programming and digital games</h3>
 
-- 🔭 Atualmente estou trabalhando com estudos e cursos de programações front end e back end 
+- 🔭 I'm currently working on studies and courses in front end and back end programming
 
-- 🌱 Atualmente estou aprendendo **Sql, phyton, JavaScript, php, etc.**
+- 🌱 I'm currently learning **Sql, phyton, JavaScript, php, etc.**
 
-- 💬 Me pergunte sobre **C#, JavaScript, Html/Css, Flutter**
+- 💬 Ask me about **C#, JavaScript, Html/Css, Flutter, Python and other languages**
 
-- 📫 Você me acha **ricardolins97@gmail.com**
+- 📫 Can you find me **ricardolins97@gmail.com**
 
-- 📄 Agora vou falar um pouco das minhas experiências [https://www.linkedin.com/in/ricardo-alberto-lins-duarte-913185170/](https://www.linkedin.com/in/ricardo-alberto-lins-duarte-913185170/)
+- 📄 Now I'm going to talk a little about my experiences [https://www.linkedin.com/in/ricardo-alberto-lins-duarte-913185170/](https://www.linkedin.com/in/ricardo-alberto-lins-duarte-913185170/)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
